@@ -1,5 +1,5 @@
 # Home-surveillance-system
-
+Created by Shoryan Chahar
 This script captures video from the webcam, detects faces in real-time, saves images with detected faces, and compiles those images into a video when the user quits the application.
 
 Prerequisites
@@ -9,9 +9,9 @@ Haarcascades XML file for face detection (haarcascade_frontalface_default.xml)
 Installation
 Make sure you have the required packages installed:
 
-bash
-Copy code
+#bash
 pip install opencv-python
+
 Script Breakdown
 1. Import Libraries
 python
